@@ -1,0 +1,19 @@
+{
+  "name": "drag-n-drop",
+  "version": "1.0.0",
+  "description": "A small drag and drop project in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Philip Alexander Hassialis",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
