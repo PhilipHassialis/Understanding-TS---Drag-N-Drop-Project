@@ -4,7 +4,8 @@
   "description": "A small drag and drop project in typescript",
   "scripts": {
     "test": "exit 1",
-    "start": "lite-server"
+    "start": "lite-server",
+    "build": "webpack"
   },
   "keywords": [
     "typescript",
